@@ -1,2 +1,0 @@
-# myblog
-website persional
